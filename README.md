@@ -18,7 +18,7 @@ Lambda Gloves is a computer-vision-based musical glove system that enables expre
 
 ## Demo
 
-![Demo Screenshot](docs/demo_screenshot.png)
+![Lambda Gloves In Action](docs/demo_screenshot.png)
 
 ---
 
@@ -105,10 +105,9 @@ Lambda Gloves is open-source software licensed under the [MIT License](LICENSE).
 
 ---
 
-**Next Steps for Your Project:**
+**Next Steps for Lmbda Gloves:**
 - Add more modes and gesture mappings in [main.py](http://_vscodecontentref_/6).
 - Expand the GUI for easier configuration.
 - Add more documentation and demo videos/screenshots in the `docs/` folder.
 - Consider packaging for easy installation (`setup.py` or `pip install .`).
 
-Let me know if you want a sample `requirements.txt` or further help with packaging or GUI improvements!
